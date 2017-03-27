@@ -1,7 +1,8 @@
 php-coveralls
 =============
-Khoa is changing a little bit to test.
 [![Build Status](https://travis-ci.org/khoawasabi/php-coveralls.svg?branch=master)](https://travis-ci.org/khoawasabi/php-coveralls)
+Khoa is changing a little bit to test.
+
 
 <!-- [![Build Status](https://travis-ci.org/satooshi/php-coveralls.png?branch=master)](https://travis-ci.org/satooshi/php-coveralls)
 [![Coverage Status](https://coveralls.io/repos/satooshi/php-coveralls/badge.png?branch=master)](https://coveralls.io/r/satooshi/php-coveralls)
